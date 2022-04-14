@@ -1,0 +1,4 @@
+# discord.py removed in favor of pycord, pycord is not in requirements because I need the development version which is in ./bot/discord
+yarl
+multidict
+aiohttp
